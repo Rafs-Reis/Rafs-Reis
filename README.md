@@ -51,3 +51,12 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 
 
 
+
+document.addEventListener("mousedown", function(event) if ((event.button = 0)) t Input.mouse.left = true;
+t
+t
+if ((event.button = 1)) £ Input.mouse.middle = true;
+€ if ((event.button = 2)) ( Curtidas Input.mouse.right = true;
+
+
+
